@@ -1,0 +1,1 @@
+Chat service API using SpringBoot, Lombok, Tomcat and Postman.
